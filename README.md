@@ -1,4 +1,4 @@
 # bandil-demo8
 This is my first git repository.
 <br>
-Author- Ambika bandil
+Author- Ambika (bandil-demo)
